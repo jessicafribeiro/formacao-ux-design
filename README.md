@@ -1,2 +1,2 @@
-# formacao-ux-design
+# Formação UX Design
 Repositório para entrega de Desafios de Projeto
